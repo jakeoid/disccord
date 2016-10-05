@@ -21,3 +21,11 @@ The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9
 
 [TheBITLINK](https://gist.github.com/TheBITLINK)
 [Jakeoid](https://jakeoid.com/)
+
+### Disclaimer
+ - Yes, we know this is hacky
+ - Yes, we know this is CSS abuse, and we should be in the internet jail right now
+ - Yes, we know this isn't even properly formated
+ - Yes, we know there's no point on doing this
+ 
+So we are not responsible for any harm caused by this.
