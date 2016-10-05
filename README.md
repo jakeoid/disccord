@@ -19,7 +19,7 @@ The easiest way to install this client is like the following.
 
 The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9586 and @jakeoid#6284. 
 
-[TheBITLINK](https://gist.github.com/TheBITLINK)
+[TheBITLINK](https://github.com/TheBITLINK)
 [Jakeoid](https://jakeoid.com/)
 
 ### Disclaimer
