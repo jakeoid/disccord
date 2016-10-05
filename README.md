@@ -9,10 +9,10 @@ The easiest way to install this client is like the following.
 
 1. Download the [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) client, instructions for installing can be found there.
 
-2. Clone my code that I have here, and/or add the contents of `disccord.css` to your stylesheet!
+2. Clone my code that I have here,
 ```git clone https://github.com/jakeoid/disccord.git```
 
-3. Refresh your client by re-running the BeautifulDiscord command.
+3. Re-run the BeautifulDiscord command.
 ```beautifuldiscord --css ./disccord/disccord.css``` 
 
 ####Credits.
