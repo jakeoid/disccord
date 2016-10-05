@@ -17,11 +17,13 @@ To use simply add this following to your BeautifulDiscord/BetterDiscord/InspectE
 /** mutte **/ div.item.danger:nth-child(1) > .label::before {content: 'your mutte';}
 /** deaffe **/ div.item.danger:nth-child(2) > .label::before {content: 'your deaffe';}
 /** delette **/ div.item.danger:first-child:last-child > span::before { content: 'your delette'; }
-/** ownne **/ .member-buttons > .btn-danger:nth-last-child(3)::before {content: 'your the ownne';}
+/** ownne **/ .member-buttons > .btn-danger:nth-last-child(3)::before { content: 'your the ownne'; }
+/** frienne **/ div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item > span::before, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item > span::before { content: 'your frienne'; }
+/** blocce **/ div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item + div.item > span::before, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item + div.item > span::before { content: 'your blocce'; }
 
 /** hide excess **/
-div.item.danger span, div.item.danger > .label {overflow: hidden;}
-div.item.danger > span, div.item.danger > .label {visibility: hidden;}
+div.item.danger { overflow: hidden; text-overflow: initial!important; }
+div.item.danger > span, div.item.danger > .label, div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item + div.item > span, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item + div.item > span, div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item > span, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item > span {visibility: hidden;}
 .member-buttons > .btn-danger { font-size: 0!important; padding-bottom: 2px!important; }
 .member-buttons > .btn-danger::before { font-size: 14px; }
-div.item.danger > span::before, div.item.danger > .label::before {visibility: visible;}
+div.item.danger > span::before, div.item.danger > .label::before, div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item + div.item > span::before, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item + div.item > span::before, div.context-menu > div:nth-child(3) > div.item.item-subMenu + div.item > span::before, div.context-menu > div:nth-child(2) > div.item.item-subMenu + div.item > span::before {visibility: visible;}
