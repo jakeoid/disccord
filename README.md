@@ -18,3 +18,10 @@ The easiest way to install this client is like the following.
 3. Refresh your client by re-running the BeautifulDiscord command.
 
 ```beautifuldiscord --css ./disccord/disccord.css``` 
+
+####Credits.
+
+The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9586 and @jakeoid#6284. 
+
+[TheBITLINK](https://gist.github.com/TheBITLINK)
+[Jakeoid](https://jakeoid.com/)
