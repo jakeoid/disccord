@@ -7,16 +7,13 @@ This addition to your Discord client will allow for you to have the options to k
 
 The easiest way to install this client is like the following.
 
-1. Download the BeautifulDiscord client, instructions for installing can be found there
-
+1. Download the BeautifulDiscord client, instructions for installing can be found there.
 ```https://github.com/leovoel/BeautifulDiscord```
 
 2. Clone my code that I have here, and/or add the contents of `disccord.css` to your stylesheet!
-
 ```git clone https://github.com/jakeoid/disccord.git```
 
 3. Refresh your client by re-running the BeautifulDiscord command.
-
 ```beautifuldiscord --css ./disccord/disccord.css``` 
 
 ####Credits.
