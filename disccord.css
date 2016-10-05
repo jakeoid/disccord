@@ -1,0 +1,27 @@
+/**
+  .                         .
+  | o                       |
+,-| . ,-. ,-. ,-. ,-. ;-. ,-|
+| | | `-. |   |   | | |   | |
+`-' ' `-' `-' `-' `-' '   `-'
+Adds the kikke, banne, mutte, deaffe, delette options to your discord client. 
+CSS created by @jakeoid#6284, @TheBITLINK#3141 and @Ovyerus#9586.
+**/
+
+/**
+To use simply add this following to your BeautifulDiscord/BetterDiscord/InspectElement CSS!
+**/
+
+/** kikke **/ div.item.danger:nth-child(1) > span::before, div.item.danger:nth-child(3) > span::before, .member-buttons > .btn-danger:nth-last-child(2)::before {content: 'your kikke';}
+/** banne **/ div.item.danger:nth-child(2) > span::before, div.item.danger:nth-child(4) > span::before, .member-buttons > .btn-danger:last-child::before {content: 'your banne';}
+/** mutte **/ div.item.danger:nth-child(1) > .label::before {content: 'your mutte';}
+/** deaffe **/ div.item.danger:nth-child(2) > .label::before {content: 'your deaffe';}
+/** delette **/ div.item.danger:first-child:last-child > span::before { content: 'your delette'; }
+/** ownne **/ .member-buttons > .btn-danger:nth-last-child(3)::before {content: 'your the ownne';}
+
+/** hide excess **/
+div.item.danger span, div.item.danger > .label {overflow: hidden;}
+div.item.danger > span, div.item.danger > .label {visibility: hidden;}
+.member-buttons > .btn-danger { font-size: 0!important; padding-bottom: 2px!important; }
+.member-buttons > .btn-danger::before { font-size: 14px; }
+div.item.danger > span::before, div.item.danger > .label::before {visibility: visible;}
