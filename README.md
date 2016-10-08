@@ -29,3 +29,5 @@ The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9
  - Yes, we know there's no point on doing this
  
 So we are not responsible for any harm caused by this.
+
+Also we are in no way related to the [Disccord library for C](https://github.com/FiniteReality/disccord), we simply just share the name.
