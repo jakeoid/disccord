@@ -20,9 +20,6 @@ The easiest way to install this client is like the following.
 
 The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9586 and @jakeoid#6284. 
 
-[TheBITLINK](https://github.com/TheBITLINK)
-[Jakeoid](https://jakeoid.com/)
-
 ### Disclaimer
  - Yes, we know this is hacky
  - Yes, we know this is CSS abuse, and we should be in the internet jail right now
