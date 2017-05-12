@@ -1,5 +1,7 @@
 <img src="icon.png" align="right" />
+
 # disccord
+
 #### Adds the kikke, banne, mutte, deaffe, delette options to your discord client.
 
 This addition to your Discord client will allow for you to have the options to kick, ban, mute, deafen and delete users off of the server to be renamed aptly. Through using a client modification like BetterDiscord or BeautifulDiscord you will see the updated messages!
