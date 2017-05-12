@@ -21,6 +21,7 @@ The easiest way to install this client is like the following.
 ## Credits
 
 The stylesheet for this document was contributed by @TheBITLINK#3141, @Ovyerus#9586 and @jakeoid#6284. 
+The banne image/icon for this add-on was created by @Roadcrosser#3657.
 
 ### Disclaimer
  - Yes, we know this is hacky
